@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "travel-bug-f64d3",
+    "prod": "travel-bug-f64d3"
+  },
+  "targets": {},
+  "etags": {}
+}
